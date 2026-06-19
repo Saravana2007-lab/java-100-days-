@@ -40,6 +40,16 @@ This repository contains my Java learning journey as a BCA student.
 * Count Vowels
 * Count Words
 * Count Consonants
+* Character Frequency
+* Anagram Check
+
+### Methods
+
+* Greeting Method
+* Square Method
+* Maximum Number Method
+* Even Check Method
+* Mini Calculator
 
 ---
 
@@ -49,44 +59,91 @@ This repository contains my Java learning journey as a BCA student.
 | -------------- | --------- |
 | Basics         | 3         |
 | Arrays         | 10        |
-| Strings        | 5         |
-| Total Programs | 18        |
+| Strings        | 7         |
+| Methods        | 5         |
+| Total Programs | 25        |
 
 ---
 
-## Current Streak
+## Challenge Timeline
 
-* Day 1: Java Basics
-* Day 2: Arrays Foundation
-* Day 3: Array Problem Solving
-* Day 4: String Fundamentals
+| Date        | Day   | Topic                                  |
+| ----------- | ----- | -------------------------------------- |
+| 14 Jun 2026 | Day 1 | Java Basics                            |
+| 15 Jun 2026 | Day 2 | Arrays Foundation                      |
+| 16 Jun 2026 | Day 3 | Array Problem Solving                  |
+| 17 Jun 2026 | Day 4 | String Fundamentals                    |
+| 18 Jun 2026 | Day 5 | String Problem Solving & Anagram Check |
+| 19 Jun 2026 | Day 6 | Methods                                |
 
-Current Streak: 4 Days 🔥
+Current Streak: **6 Days 🔥**
+
+---
+
+## Latest Progress
+
+### Day 6 - Methods (19 Jun 2026)
+
+**Programs Completed**
+
+* Greeting Method
+* Square Method
+* Maximum Number Method
+* Even Check Method
+* Mini Calculator
+
+**Mistakes Made**
+
+* Initially ignored a return value
+* Used generic variable names in some methods
+* Switch-case type mismatch in calculator
+
+**Key Learning**
+
+* Methods and code reusability
+* Parameters vs Arguments
+* Return values
+* Boolean methods
+* Method design principles
+
+**Score:** 9.3/10
 
 ---
 
 ## Upcoming Topics
 
-* String Comparison
-* Character Frequency
-* Anagram Check
-* Methods
+* Method Overloading
 * Recursion
-* Sorting
+* Searching Algorithms
+* Sorting Algorithms
 * Linked List
 * Stack
 * Queue
 * Trees
-* BST
+* Binary Search Tree (BST)
 * Hashing
-* OOP Concepts
+* Object-Oriented Programming (OOP)
 * Collections Framework
+* Exception Handling
+* File Handling
 * Interview Preparation
+
+---
+
+## Repository Structure
+
+```text
+java-100-days/
+├── Basics/
+├── Arrays/
+├── Strings/
+├── Methods/
+└── README.md
+```
 
 ---
 
 ## Author
 
-Saravana
+**Saravana**
 
-BCA Student | Java Learner | Future Software Engineer
