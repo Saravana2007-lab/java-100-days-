@@ -1,3 +1,4 @@
+package searchingalgorithms;
 // Binary Search Using Method
 // Author - Saravana
 
