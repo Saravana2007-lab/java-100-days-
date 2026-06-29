@@ -1,131 +1,296 @@
-# Java 100 Days Challenge 🚀
+# ☕ Java 100 Days Challenge
 
-This repository contains my Java learning journey as a BCA student.
+Welcome to my **Java 100 Days Challenge** repository.
 
-## Goals
+I am documenting my journey from Java fundamentals to backend development while building strong programming, problem-solving, and software engineering skills.
 
-* Learn Java Fundamentals
-* Improve Problem Solving Skills
-* Build Consistency
-* Prepare for Placements and Interviews
-* Create a Strong GitHub Portfolio
+> **Every topic includes multiple practice programs, code reviews, and mini projects to reinforce real software engineering concepts rather than just syntax.**
 
 ---
 
-## Completed Topics
+# 👨‍💻 About Me
 
-### Basics
+**Name:** Saravana
 
-* Largest Of Three Numbers
-* Grade Calculator
-* Multiplication Table
+**Course:** Bachelor of Computer Applications (BCA)
 
-### Arrays
+**Goal:** Become a Java Backend Software Engineer.
 
-* Sum Of Array
-* Largest Element In Array
-* Smallest Element In Array
-* Average Of Array
-* Even Or Odd In Array
-* Linear Search
+---
+
+# 🎯 Objectives
+
+* Master Core Java
+* Write clean and professional code
+* Build consistency through daily coding
+* Improve problem-solving skills
+* Prepare for software engineering interviews
+* Build a strong GitHub portfolio
+
+---
+
+# 📊 Progress Statistics
+
+| Category         |                    Progress |
+| ---------------- | --------------------------: |
+| Java Challenge   |                Day 14 / 100 |
+| Current Streak   |                  14 Days 🔥 |
+| Programs Written |                          46 |
+| Current Module   | Object-Oriented Programming |
+
+---
+
+# 📚 Current Learning
+
+### Current Module
+
+**Object-Oriented Programming**
+
+### Completed
+
+* ✅ Classes
+* ✅ Objects
+* ✅ Instance Variables
+* ✅ Methods
+* ✅ Constructors
+* ✅ Constructor Overloading
+* ✅ this Keyword
+* ✅ Constructor Chaining
+* ✅ Static Variables
+* ✅ Static Methods
+
+### Next
+
+* 🔜 Encapsulation
+* 🔜 Inheritance
+* 🔜 Polymorphism
+* 🔜 Abstraction
+* 🔜 Interfaces
+
+---
+
+# ✅ Completed Topics
+
+## Java Fundamentals
+
+* Variables
+* Data Types
+* Input / Output
+* Operators
+* Conditional Statements
+* Loops
+
+---
+
+## Arrays
+
+* Sum of Array
+* Largest Element
+* Smallest Element
+* Average of Array
+* Even & Odd Elements
 * Reverse Array
 * Second Largest Element
 * Frequency Count
-* Sum Of Min And Max In Array
+* Sum of Minimum & Maximum
+* Linear Search
+* Binary Search
 
-### Strings
+---
+
+## Strings
 
 * Reverse String
-* Palindrome String
+* Palindrome Check
 * Count Vowels
-* Count Words
 * Count Consonants
+* Count Words
 * Character Frequency
 * Anagram Check
 
-### Methods
+---
+
+## Methods
 
 * Greeting Method
 * Square Method
-* Maximum Number Method
-* Even Check Method
+* Maximum Number
+* Even Check
 * Mini Calculator
+* Arrays with Methods
 
-### Method Overloading
+---
+
+## Method Overloading
 
 * Addition Overloading
-* Area Calculator Overloading
-* Display Method Overloading
+* Area Calculator
+* Display Method
 * Employee Salary Calculator
 
 ---
 
-## Progress
+## Searching Algorithms
 
-| Topic          | Completed |
-| -------------- | --------- |
-| Basics         | 3         |
-| Arrays         | 10        |
-| Strings        | 7         |
-| Methods        | 9         |
-| Total Programs | 29        |
+* Linear Search
+* Binary Search
+* Search String in Array
 
 ---
 
-## Challenge Timeline
+## Sorting Algorithms
 
-| Date        | Day   | Topic                                  |
-| ----------- | ----- | -------------------------------------- |
-| 14 Jun 2026 | Day 1 | Java Basics                            |
-| 15 Jun 2026 | Day 2 | Arrays Foundation                      |
-| 16 Jun 2026 | Day 3 | Array Problem Solving                  |
-| 17 Jun 2026 | Day 4 | String Fundamentals                    |
-| 18 Jun 2026 | Day 5 | String Problem Solving & Anagram Check |
-| 19 Jun 2026 | Day 6 | Methods                                |
-| 20 Jun 2026 | Day 7 | Method Overloading                     |
-
-Current Streak: **7 Days 🔥**
+* Bubble Sort
+* Bubble Sort Statistics
+* Selection Sort
+* Selection Sort Statistics
+* Insertion Sort
 
 ---
 
-## Upcoming Topics
+## Object-Oriented Programming
 
-* Arrays and Methods
-* Recursion
-* Searching Algorithms
-* Sorting Algorithms
-* Linked List
-* Stack
-* Queue
-* Trees
-* Binary Search Tree (BST)
-* Hashing
-* Object-Oriented Programming (OOP)
+### Classes & Objects
+
+* Classes
+* Objects
+* Instance Variables
+* Methods inside Classes
+
+### Constructors
+
+* Default Constructor
+* Parameterized Constructor
+* Constructor Overloading
+* Constructor Chaining
+* this Keyword
+
+### Static
+
+* Static Variables
+* Static Methods
+* Student Counter
+* Bank Account System
+* Employee Management System
+
+---
+
+# 📅 Challenge Timeline
+
+| Date        | Day    | Topic                               |
+| ----------- | ------ | ----------------------------------- |
+| 14 Jun 2026 | Day 1  | Java Fundamentals                   |
+| 15 Jun 2026 | Day 2  | Arrays Foundation                   |
+| 16 Jun 2026 | Day 3  | Array Problem Solving               |
+| 17 Jun 2026 | Day 4  | String Fundamentals                 |
+| 18 Jun 2026 | Day 5  | String Problem Solving              |
+| 19 Jun 2026 | Day 6  | Methods                             |
+| 20 Jun 2026 | Day 7  | Method Overloading                  |
+| 21 Jun 2026 | Day 8  | Arrays with Methods                 |
+| 22 Jun 2026 | Day 9  | 2D Arrays                           |
+| 23 Jun 2026 | Day 10 | Searching Algorithms                |
+| 24 Jun 2026 | Day 11 | Bubble Sort                         |
+| 25 Jun 2026 | Day 12 | Selection Sort & Insertion Sort     |
+| 26 Jun 2026 | Day 13 | Classes, Objects & Methods          |
+| 27 Jun 2026 | Day 14 | Constructors, this Keyword & Static |
+
+---
+
+# 🏆 Milestones
+
+* ✅ 25 Programs
+* ⬜ 50 Programs
+* ⬜ 75 Programs
+* ⬜ 100 Programs
+* ⬜ First Mini Project
+* ⬜ Core Java Completed
+* ⬜ Spring Boot Started
+
+---
+
+# 🚀 Upcoming Topics
+
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Abstraction
+* Interfaces
 * Collections Framework
 * Exception Handling
 * File Handling
-* Interview Preparation
+* Multithreading
+* Java 8 Features
+* JDBC
+* Maven
+* Spring Boot
 
 ---
 
-## Repository Structure
+# 🏗 Upcoming Mini Projects
+
+* Student Management System
+* Bank Management System
+* Library Management System
+* Employee Management System
+* Course Registration System
+
+---
+
+# 📂 Repository Structure
 
 ```text
-java-100-days/
-├── Day-01-Java-Basics/
-├── Day-02-Arrays-Foundation/
-├── Day-03-Array-Problem-Solving/
-├── Day-04-String-Fundamentals/
-├── Day-05-String-Problem-Solving/
-├── Day-06-Methods/
-├── Day-07-Method-Overloading/
-├── logs/
+Java-100-Days
+│
+├── Basics
+├── Arrays
+├── Strings
+├── Methods
+├── MethodOverloading
+├── Searching
+├── Sorting
+│
+├── OOP
+│   ├── 01_Classes_Objects
+│   ├── 02_Constructors
+│   ├── 03_Static
+│   ├── 04_Encapsulation
+│   ├── 05_Inheritance
+│   ├── 06_Polymorphism
+│   ├── 07_Abstraction
+│   ├── 08_Interface
+│   └── 09_Mini_Project
+│
+├── Collections
+├── ExceptionHandling
+├── FileHandling
+├── Multithreading
+├── Projects
+├── Logs
 └── README.md
 ```
 
 ---
 
-## Author
+# 📌 Learning Rules
+
+* Learn concepts through coding.
+* Write multiple programs for every topic.
+* Focus on clean, readable, and maintainable code.
+* Follow Java naming conventions.
+* Review every solution.
+* Build GitHub-quality implementations.
+* Prioritize understanding over memorization.
+
+---
+
+# 📈 Long-Term Goal
+
+Complete Core Java, Advanced Java, Spring Boot, and Backend Development while building a professional GitHub portfolio and preparing for software engineering interviews.
+
+---
+
+## 👤 Author
 
 **Saravana**
 
+**Java • Problem Solving • Software Engineering**
